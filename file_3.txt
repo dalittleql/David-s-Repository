@@ -1,0 +1,3 @@
+This is line 1 of my 3rd file
+This is line 2 of my 3rd file
+This is line 3 of my 3rd file
